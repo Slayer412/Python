@@ -1,2 +1,2 @@
 # Python
-Python codes
+Python amazing codes!!!
